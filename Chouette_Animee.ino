@@ -42,7 +42,7 @@ void loop() {   // repetee à l'infini...
   if (valCapteur == LOW) {
     for (int i = tpsMoteurMax; i>= tpsMoteurMin; i--) {
       monServo.writeMicroseconds(i);
-      delay(5);
+      // delay(5);
     } delay(5000); // on attend 5 sec eveillee
     Serial.println("HOU HOU HOU");
     // et on rendort....
