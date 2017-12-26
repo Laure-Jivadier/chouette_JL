@@ -1,7 +1,7 @@
 /*
    Un sketch pour la chouette animee : 1 servo SG90 & un capteur infra Rouge sur une carte Arduino Nano
    Calibration du moteur d'apres le tuto d'Eskimon : http://eskimon.fr/287-arduino-602-un-moteur-qui-de-la-tete-le-servo-moteur
-   pour le mien j'ai vu ue son min = 1250 (position "eveillee") & son max env. 2400 (position "endormie")
+   pour le mien j'ai vue son min = 1250 (position "eveillee") & son max env. 2400 (position "endormie")
    mais je n'ai pas besoin de tant d'amplitude sur le jouet
    Usage du capteur d'apres l exemple en anglais  http://henrysbench.capnfatz.com/henrys-bench/arduino-sensors-and-input/arduino-ir-obstacle-sensor-tutorial-and-manual/
 
